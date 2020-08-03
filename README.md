@@ -4,6 +4,12 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita!
 
+<!-- - 🔭 I’m currently working on a [***](website)! -->
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to travel, draw and play games.
+
 ### Get in touch
 [<img align="left" alt="nikitatirk | Website" title="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
 [<img align="left" alt="nikitatirk | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](#)
