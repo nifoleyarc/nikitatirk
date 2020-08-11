@@ -12,7 +12,7 @@
 
 ### Get in touch
 [<img align="left" alt="nikitatirk | Website" title="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
-[<img align="left" alt="nikitatirk | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](#)
+[<img align="left" alt="nikitatirk | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 [<img align="left" alt="nikitatirk | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nikitatirk)
 
 <br />
