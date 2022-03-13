@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on a [***](website)! -->
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, draw and play games.
 
 ### Get in touch
